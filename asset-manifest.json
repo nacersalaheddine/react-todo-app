@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-todo-app/static/css/main.c6ddda78.chunk.css",
+    "main.js": "/react-todo-app/static/js/main.5a5ea4ee.chunk.js",
+    "main.js.map": "/react-todo-app/static/js/main.5a5ea4ee.chunk.js.map",
+    "runtime-main.js": "/react-todo-app/static/js/runtime-main.bc1126c5.js",
+    "runtime-main.js.map": "/react-todo-app/static/js/runtime-main.bc1126c5.js.map",
+    "static/css/2.8b28411a.chunk.css": "/react-todo-app/static/css/2.8b28411a.chunk.css",
+    "static/js/2.27132f66.chunk.js": "/react-todo-app/static/js/2.27132f66.chunk.js",
+    "static/js/2.27132f66.chunk.js.map": "/react-todo-app/static/js/2.27132f66.chunk.js.map",
+    "index.html": "/react-todo-app/index.html",
+    "static/css/2.8b28411a.chunk.css.map": "/react-todo-app/static/css/2.8b28411a.chunk.css.map",
+    "static/css/main.c6ddda78.chunk.css.map": "/react-todo-app/static/css/main.c6ddda78.chunk.css.map",
+    "static/js/2.27132f66.chunk.js.LICENSE.txt": "/react-todo-app/static/js/2.27132f66.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/react-todo-app/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo.2f2a0142.png": "/react-todo-app/static/media/logo.2f2a0142.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc1126c5.js",
+    "static/css/2.8b28411a.chunk.css",
+    "static/js/2.27132f66.chunk.js",
+    "static/css/main.c6ddda78.chunk.css",
+    "static/js/main.5a5ea4ee.chunk.js"
+  ]
+}
